@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f16eeb55be79cb54d9b2bfdd8c96a1d7, type: 3}
+  m_Name: Story45
+  m_EditorClassIdentifier: 
+  speechText: "A group of talking animals have banded together to put on a musical
+    performance that has brought the entire town to tears of joy.\r"
+  speechClip: {fileID: 0}
+  positivity: 3
